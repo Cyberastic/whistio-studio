@@ -1,0 +1,2 @@
+pyqt5
+git add main.py gui/views/ README.md requirements.txt
